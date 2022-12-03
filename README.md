@@ -7,6 +7,7 @@ This repository contains useful links.
 ## Yoshua Bengio ##
 ### [Personal Webpage](https://yoshuabengio.org/) ###
 
-## arXiv ##
+## Research Tools ##
 ### [arXiv Home Page](https://arxiv.org/) ###
 ### [arXiv Vanity](https://www.arxiv-vanity.com/) ###
+### [Connection Papers](https://www.connectedpapers.com/) ###
