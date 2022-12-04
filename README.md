@@ -11,3 +11,4 @@ This repository contains useful links.
 ### [arXiv Home Page](https://arxiv.org/) ###
 ### [arXiv Vanity](https://www.arxiv-vanity.com/) ###
 ### [Connection Papers](https://www.connectedpapers.com/) ###
+### [Semantic Scholar](https://www.semanticscholar.org/) ###
